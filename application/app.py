@@ -1,4 +1,4 @@
-from application import facedetect
+import facedetect
 import mimetypes
 import requests
 from flask import Flask, jsonify, make_response

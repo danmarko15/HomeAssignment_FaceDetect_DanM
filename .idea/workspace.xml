@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e524779b-b01a-4216-a319-ccbb08a44913" name="Default Changelist" comment="" />
+    <list default="true" id="e524779b-b01a-4216-a319-ccbb08a44913" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faces_image_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/faces_image_1.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HomeAssignment_FaceDetect" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YvkcV2nzEIBIoWxyx2vhQb8rbD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,7 +40,7 @@
       <recent name="C:\Users\User\PycharmProjects\HomeAssignment_FaceDetect_DanM\app" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for tests.TestFaceDetect">
+  <component name="RunManager" selected="Python.app (2)">
     <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeAssignment_FaceDetect_DanM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,9 +176,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app (2)" />
         <item itemvalue="Python tests.Unittests for tests.TestFaceDetect" />
         <item itemvalue="Python tests.Unittests for tests.TestErrorHandling" />
-        <item itemvalue="Python.app (2)" />
         <item itemvalue="Python.app (2)" />
         <item itemvalue="Python.app (2)" />
       </list>
@@ -198,22 +202,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="710" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584139082770" />
-    <state width="1899" height="220" key="GridCell.Tab.0.bottom" timestamp="1584566094192">
+    <state width="1899" height="220" key="GridCell.Tab.0.bottom" timestamp="1584566510118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584566094192" />
-    <state width="1899" height="220" key="GridCell.Tab.0.center" timestamp="1584566094192">
+    <state width="1899" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584566510118" />
+    <state width="1899" height="220" key="GridCell.Tab.0.center" timestamp="1584566510118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584566094192" />
-    <state width="1899" height="220" key="GridCell.Tab.0.left" timestamp="1584566094192">
+    <state width="1899" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584566510118" />
+    <state width="1899" height="220" key="GridCell.Tab.0.left" timestamp="1584566510118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584566094192" />
-    <state width="1899" height="220" key="GridCell.Tab.0.right" timestamp="1584566094192">
+    <state width="1899" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584566510118" />
+    <state width="1899" height="220" key="GridCell.Tab.0.right" timestamp="1584566510118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584566094192" />
+    <state width="1899" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584566510118" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1583934093703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
